@@ -1,2 +1,2 @@
 # final-projects
-In this repo every day i work on projects for my learning 
+In this repo there will be some projects to improve my learning  
